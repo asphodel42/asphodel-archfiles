@@ -1,0 +1,26 @@
+
+[env]
+TERM = "xterm-256color"
+
+[window]
+padding.x = 10
+padding.y = 10
+
+opacity = 0.8
+blur = true
+
+startup_mode = "Maximized"
+
+[font]
+normal.family = "MesloLGS Nerd Font Mono"
+
+size = 12
+
+[cursor]
+style.shape = "Block"
+style.blinking = "On"
+
+[general]
+import = [
+"~/.config/alacritty/themes/themes/omni.toml"
+]

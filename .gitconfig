@@ -1,0 +1,20 @@
+[user]
+	name = asphodel42
+	email = asphodell42@gmail.com
+[init]
+	defaultBranch = main
+
+[core]
+	pager = delta
+
+[interactive]
+	diffFilter = delta --color-only
+
+[delta]
+	navigation = true
+	side-by-side = true 
+
+[merge]
+	conflictstyle = diff3
+[diff]
+	colorMoved = default
