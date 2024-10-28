@@ -21,3 +21,24 @@ Cat clone with syntax highlighting and git integration
 ```bash
 sudo pacman -S bat
 ```
+
+## Delta
+A syntax-highlighting pager for git, diff, and grep output
+
+```bash
+sudo pacman -S git-delta
+```
+
+## Eza
+Better ls
+
+```bash
+sudo pacman -S eza
+```
+
+## Tlrc
+Official tldr client written in Rust
+
+```bash
+yay -S tlrc
+```
