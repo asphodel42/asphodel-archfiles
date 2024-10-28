@@ -42,3 +42,19 @@ Official tldr client written in Rust
 ```bash
 yay -S tlrc
 ```
+
+## The fuck
+Autocorrect the command that you accidentally misspelled
+
+```bash
+sudo pacman -S thefuck
+```
+
+## Zoxide
+Better cd
+
+```bash
+sudo pacman -S zoxide
+```
+
+
